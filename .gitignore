@@ -1,0 +1,21 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Данные инструментов
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Файлы окружения (секреты)
+.env
+
+# Данные IDE
+.vscode/
+.idea/
